@@ -16,6 +16,6 @@
 0x88C5e536fB7D092cbfDd17038181777F3Ce3e2f1
 ``
 ---
-## Bonus: Get Layer 2 SUDT
+## Bonus: Get Layer 2 SUDT ID
 ![](./SUDT-ID.png)
 ## SUDT-ID: 251
